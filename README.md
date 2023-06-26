@@ -1,6 +1,6 @@
 # Airlift Application - Based on reactJS
 
-Demo [Show Demo]([https://github.com/facebook/create-react-app](https://nekores.github.io/airlift/)).
+Demo [Show Demo]([[https://nekores.github.io/airlift/]).
 
 ## Available Scripts
 
