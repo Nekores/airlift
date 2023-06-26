@@ -6,6 +6,7 @@ function Main() {
   return (
     <Router>
       <Switch>
+        <Route exact path="/" component={App} />
         <Route exact path="/airlift" component={App} />
         <Route path="/get-started" component={Slide2} />
         <Route path="/welcome" component={Slide3} />
