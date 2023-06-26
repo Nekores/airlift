@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/airlift/static/css/main.400860e3.chunk.css",
-    "main.js": "/airlift/static/js/main.d2b0d945.chunk.js",
-    "main.js.map": "/airlift/static/js/main.d2b0d945.chunk.js.map",
+    "main.js": "/airlift/static/js/main.73a47b1f.chunk.js",
+    "main.js.map": "/airlift/static/js/main.73a47b1f.chunk.js.map",
     "runtime-main.js": "/airlift/static/js/runtime-main.71237af1.js",
     "runtime-main.js.map": "/airlift/static/js/runtime-main.71237af1.js.map",
     "static/js/2.1cd7ed51.chunk.js": "/airlift/static/js/2.1cd7ed51.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.71237af1.js",
     "static/js/2.1cd7ed51.chunk.js",
     "static/css/main.400860e3.chunk.css",
-    "static/js/main.d2b0d945.chunk.js"
+    "static/js/main.73a47b1f.chunk.js"
   ]
 }
